@@ -1,4 +1,4 @@
-# Basic-Project
+# Inheritance-Project
 
 ## Sub Modules
  
